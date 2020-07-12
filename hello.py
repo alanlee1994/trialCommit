@@ -11,3 +11,4 @@ if __name__ == "__main__":
     x=1
     y=3
     print(do_math(x,y))
+    print(do_math(y,y))
